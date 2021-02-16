@@ -6,4 +6,6 @@
 * Monitoring tool Go
 
 # Cloning this repo
-When cloning this repo dont forget to use `git clone --recurse-submodules https://github.com/AliusDieMorietur/Cloud_Storage.git` if you want to clone the whole project.
+When cloning this repo dont forget to use 
+`git clone --recurse-submodules https://github.com/AliusDieMorietur/Cloud_Storage.git` 
+if you want to clone the whole project.
