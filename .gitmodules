@@ -1,9 +1,0 @@
-[submodule "Cloud_Storage_Server"]
-	path = Cloud_Storage_Server
-	url = https://github.com/AliusDieMorietur/Cloud_Storage_Server.git
-[submodule "Cloud_Storage_Client_Web"]
-	path = Cloud_Storage_Client_Web
-	url = https://github.com/AliusDieMorietur/Cloud_Storage_Client_Web.git
-[submodule "Cloud_Storage_Client_Android_Kotlin"]
-	path = Cloud_Storage_Client_Android_Kotlin
-	url = https://github.com/AliusDieMorietur/Cloud_Storage_Client_Android_Kotlin.git
