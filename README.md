@@ -1,7 +1,7 @@
 # Cloud_Storage
-* [Server](https://github.com/AliusDieMorietur/https://github.com/AliusDieMorietur/node_cloud_server)
-* [Client Web](https://github.com/AliusDieMorietur/react_cloud_client_web)
-* [Client Android Kotlin](https://github.com/AliusDieMorietur/https://github.com/AliusDieMorietur/Client_Android)
+* [Server](https://github.com/AliusDieMorietur/node_cloud_server.git)
+* [Client Web](https://github.com/AliusDieMorietur/react_cloud_client_web.git)
+* [Client Android Kotlin](https://github.com/AliusDieMorietur/Client_Android.git)
 * Client IOS/Android Flutter
 * Monitoring tool Go
 
